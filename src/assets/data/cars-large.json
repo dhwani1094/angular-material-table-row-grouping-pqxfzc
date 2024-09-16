@@ -1,0 +1,16 @@
+{
+    "data":[
+        {
+            "groupName":"A",
+            "brand":"Fiat1"
+        },
+        {
+            "groupName":"A",
+            "brand":"Fiat2"
+        },
+        {
+            "groupName":"B",
+            "brand":"Fiat2"
+        }
+    ]
+}
